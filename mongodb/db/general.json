@@ -1,0 +1,97 @@
+[{
+	"_id": {
+		"$oid": "5ba210feaf3c2e052dd8c53f"
+	},
+	"name": "general",
+	"language": "es",
+	"data": {
+		"top_menu": [
+			{
+				"text": "Inicio"
+			},
+			{
+				"text": "Corpus",
+				"sublements": [
+					{
+						"text": "Corpus comparable"
+					},
+					{
+						"text": "Corpus paralelos"
+					}
+				]
+			},
+			{
+				"text": "Herramientas"
+			},
+			{
+				"text": "Aplicaciones"
+			},
+			{
+				"text": "Publicaciones"
+			},
+			{
+				"text": "Idioma"
+			}
+		],
+		"languages": [
+			{
+				"code": "es",
+				"name": "Español"
+			},
+			{
+				"code": "en",
+				"name": "Inglés"
+			}
+		],
+		"footer": "Plataforma interna de \u003cb\u003eACTRES\u003c/b\u003e \u003cb\u003e㋡\u003c/b\u003e"
+	}
+},
+{
+	"_id": {
+		"$oid": "5ba210feaf3c2e052dd8c540"
+	},
+	"name": "general",
+	"language": "en",
+	"data": {
+		"top_menu": [
+			{
+				"text": "Home"
+			},
+			{
+				"text": "Corpus",
+				"sublements": [
+					{
+						"text": "Comparable Corpus"
+					},
+					{
+						"text": "Parallel Corpus"
+					}
+				]
+			},
+			{
+				"text": "Tools"
+			},
+			{
+				"text": "Applications"
+			},
+			{
+				"text": "Publishing"
+			},
+			{
+				"text": "Language"
+			}
+		],
+		"languages": [
+			{
+				"code": "es",
+				"name": "Spanish"
+			},
+			{
+				"code": "en",
+				"name": "English"
+			}
+		],
+		"footer": "\u003cb\u003eACTRES\u003c/b\u003e Internal platform \u003cb\u003e㋡\u003c/b\u003e"
+	}
+}]
+

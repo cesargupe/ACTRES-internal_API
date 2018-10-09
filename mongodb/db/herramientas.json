@@ -1,0 +1,95 @@
+[{
+	"_id": {
+		"$oid": "5ba210feaf3c2e052dd8c557"
+	},
+	"name": "herramientas",
+	"language": "es",
+	"data": {
+		"title": "Tagsets",
+		"buttons": [
+			"Acceder"
+		],
+		"edit_menu": {
+			"new_btn": "Nueva herramienta",
+			"new_title": "Nueva herramienta",
+			"edit_title": "Editar herramienta",
+			"error_text": "Se ha producido un error guardando la herramienta",
+			"name_title": "Nombre de la herramienta",
+			"description_title": "Descripción de la herramienta",
+			"email_title": "Link de la herramienta",
+			"cancel_btn": "Cancelar",
+			"save_btn": "Guardar"
+		},
+		"tools": [
+			{
+				"name": "Etiquetador ES",
+				"description": "Realiza un etiquetado multicapa, gramatical y semántico, utilizando gastro_lexicon_es y el USAS en español.",
+				"link": "https://actres.unileon.es/herramientas/tagger/es/",
+				"author": "ACTRES",
+				"acronym": "ULE"
+			},
+			{
+				"name": "Biblioteca de P-Actres",
+				"description": "Permite acceder y gestionar la base de datos MySQL que contiene los datos de los textos de P-Actres.",
+				"link": "https://actres.unileon.es/herramientas/textos/",
+				"author": "ACTRES",
+				"acronym": "ULE"
+			},
+			{
+				"name": "Comparador",
+				"description": "Compara el etiquetado manual de un texto con el etiquetado hecho por un etiquetador automático y muestra las diferencias.",
+				"link": "https://actres.unileon.es/herramientas/comparator/",
+				"author": "ACTRES",
+				"acronym": "ULE"
+			}
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "5ba210feaf3c2e052dd8c558"
+	},
+	"name": "herramientas",
+	"language": "en",
+	"data": {
+		"title": "Tagsets",
+		"buttons": [
+			"Access"
+		],
+		"edit_menu": {
+			"new_btn": "New tool",
+			"new_title": "New tool",
+			"edit_title": "Edit tool",
+			"error_text": "There was an error saving tool",
+			"name_title": "Name of tool",
+			"description_title": "Description of tool",
+			"email_title": "Link of tool",
+			"cancel_btn": "Cancel",
+			"save_btn": "Save"
+		},
+		"tools": [
+			{
+				"name": "Etiquetador ES",
+				"description": "Realiza un etiquetado multicapa, gramatical y semántico, utilizando gastro_lexicon_es y el USAS en español.",
+				"link": "https://actres.unileon.es/herramientas/tagger/es/",
+				"author": "ACTRES",
+				"acronym": "ULE"
+			},
+			{
+				"name": "Biblioteca de P-Actres",
+				"description": "Permite acceder y gestionar la base de datos MySQL que contiene los datos de los textos de P-Actres.",
+				"link": "https://actres.unileon.es/herramientas/textos/",
+				"author": "ACTRES",
+				"acronym": "ULE"
+			},
+			{
+				"name": "Comparador",
+				"description": "Compara el etiquetado manual de un texto con el etiquetado hecho por un etiquetador automático y muestra las diferencias.",
+				"link": "https://actres.unileon.es/herramientas/comparator/",
+				"author": "ACTRES",
+				"acronym": "ULE"
+			}
+		]
+	}
+}]
+
