@@ -28,7 +28,7 @@ function saveNotice(req, res) {
   notice.team = params.team;
   notice.text = params.text;
 
-  if (params.link.split('://').length < 2) params.link = 'http://' + params.link;
+  if (params.link && params.link.split('://').length < 2) params.link = 'http://' + params.link;
   notice.link = params.link;
 
   notice.save((err, noticeStored) => {
