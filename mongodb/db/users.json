@@ -1,16 +1,5 @@
 [{
 	"_id": {
-		"$oid": "5ba35eb0c4330f03cda4a53b"
-	},
-	"team": "ADMIN",
-	"acronym": "ADM",
-	"place": "ADM",
-	"role": "ROLE_ADMIN",
-	"password": "$2a$10$mFIchX7arjqCisgMHSyyT.2ZpBz8MyTKydBD83wFJGvspM.I7fl7C",
-	"__v": 0
-},
-{
-	"_id": {
 		"$oid": "5bbc607e91e5fe042dfd719e"
 	},
 	"team": "ACTRES",
@@ -19,5 +8,15 @@
 	"role": "ROLE_USER",
 	"password": "$2a$10$NVHafelw4ab.CP7IfbhjEuxZT40GEp5/2KYDyBaOEyvKn9k9rp.JG",
 	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5bbdab2d789c230224d42cb8"
+	},
+	"team": "ADMIN",
+	"acronym": "ULE",
+	"place": "Universidad de León",
+	"role": "ROLE_ADMIN",
+	"password": "$2a$10$njeWODYMB80yXy4445XLCuPxz1PUV3Nh3an1hRdOWGuT2/IthSXwu",
+	"__v": 0
 }]
-
