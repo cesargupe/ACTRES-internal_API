@@ -40,11 +40,7 @@
 				"name": "Inglés"
 			}
 		],
-		"footer": "Plataforma interna de \u003cb\u003eACTRES\u003c/b\u003e \u003cb\u003e㋡\u003c/b\u003e",
-		"no_session": [
-			"Inicia sesión para continuar",
-			"Para acceder a ACTRES pulse aqui"
-		]
+		"footer": "Plataforma interna de \u003cb\u003eACTRES\u003c/b\u003e \u003cb\u003e㋡\u003c/b\u003e"
 	}
 },
 {
@@ -89,10 +85,6 @@
 				"name": "English"
 			}
 		],
-		"footer": "\u003cb\u003eACTRES\u003c/b\u003e Internal platform \u003cb\u003e㋡\u003c/b\u003e",
-		"no_session": [
-			"Log in to continue",
-			"To visit ACTRES click here"
-		]
+		"footer": "\u003cb\u003eACTRES\u003c/b\u003e Internal platform \u003cb\u003e㋡\u003c/b\u003e"
 	}
 }]
