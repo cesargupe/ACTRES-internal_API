@@ -19,4 +19,170 @@
 	"role": "ROLE_ADMIN",
 	"password": "$2a$10$njeWODYMB80yXy4445XLCuPxz1PUV3Nh3an1hRdOWGuT2/IthSXwu",
 	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5bc853957f8048006f62999b"
+	},
+	"team": "rosa.rabadan",
+	"acronym": "ULE",
+	"place": "Universidad de León",
+	"role": "ROLE_USER",
+	"password": "$2a$10$CVFfYFtayxk4tFr4405vxORM4khsjtuXyy9UAkDb4ktI8TyWGN38K",
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5bc853a17f8048006f62999c"
+	},
+	"team": "belen.labrador",
+	"acronym": "ULE",
+	"place": "Universidad de León",
+	"role": "ROLE_USER",
+	"password": "$2a$10$8zlxUuSv5mRebf6Sbba2wOBB7yJkJrfnJnL2y0wniyTow1o70apOu",
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5bc853cf7f8048006f62999d"
+	},
+	"team": "noelia.ramon",
+	"acronym": "ULE",
+	"place": "Universidad de León",
+	"role": "ROLE_USER",
+	"password": "$2a$10$4F1hUl.c5PujhHpPboWsGO8Td7W6fP/VMeGdTjBmPbkX/T8ZvbL7u",
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5bc853d67f8048006f62999e"
+	},
+	"team": "angeles.diez",
+	"acronym": "ULE",
+	"place": "Universidad de León",
+	"role": "ROLE_USER",
+	"password": "$2a$10$sP.LXuF2GLBkpU6FoICLH.tEwHwQ8DoauSNaQAkzg4/U8gaXaZBUa",
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5bc853de7f8048006f62999f"
+	},
+	"team": "acrif",
+	"acronym": "ULE",
+	"place": "Universidad de León",
+	"role": "ROLE_USER",
+	"password": "$2a$10$W2J52xvBn8AEkaICOHqSvuakDnv1iK7sb5vnkTLp9WM0vz1uOB6RK",
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5bc853ec7f8048006f6299a0"
+	},
+	"team": "purificacion.fernandez",
+	"acronym": "ULE",
+	"place": "Universidad de León",
+	"role": "ROLE_USER",
+	"password": "$2a$10$NFqOcIoZWOLwy95wm3MnuOP9PdhGIV1Y7amTCsx9DaRNY/t2rxxgC",
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5bc853f87f8048006f6299a1"
+	},
+	"team": "pizarro",
+	"acronym": "ULE",
+	"place": "Universidad de León",
+	"role": "ROLE_USER",
+	"password": "$2a$10$KPgui7uQmC0b9emoDnqVVuoOtlHq0pP/UK29bgUOoN7Ku4uUZXaUO",
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5bc853ff7f8048006f6299a2"
+	},
+	"team": "mariabelen.lopez",
+	"acronym": "ULE",
+	"place": "Universidad de León",
+	"role": "ROLE_USER",
+	"password": "$2a$10$NU.J5fRqZHM0JP3/dtLbCeVhntIiE.1SynPF8PW8b90AkIxoRwUXG",
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5bc854077f8048006f6299a3"
+	},
+	"team": "mariateresa.ortego",
+	"acronym": "ULE",
+	"place": "Universidad de León",
+	"role": "ROLE_USER",
+	"password": "$2a$10$A7Ere/w9Cp42VpB9nR4Xi.77hRzNhaB0X99ottR6Abi6qjmhT4pIK",
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5bc8540d7f8048006f6299a4"
+	},
+	"team": "marlen.izquierdo",
+	"acronym": "ULE",
+	"place": "Universidad de León",
+	"role": "ROLE_USER",
+	"password": "$2a$10$8DNPv/y8IY86BY5XhCCmiOMxofzg4UbrZVay0ZYdy0sZBK9vNN7ei",
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5bc854157f8048006f6299a5"
+	},
+	"team": "fjpalacios",
+	"acronym": "ULE",
+	"place": "Universidad de León",
+	"role": "ROLE_USER",
+	"password": "$2a$10$hl.EUswcTE7ZekSNA8R2KOOEu7SiCFM/cFUhtpGLWaYRuQgEcpYfC",
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5bc8541e7f8048006f6299a6"
+	},
+	"team": "mperb",
+	"acronym": "ULE",
+	"place": "Universidad de León",
+	"role": "ROLE_USER",
+	"password": "$2a$10$K6mB6GCfnNQie/i7IhbJLuYJWbWL1um/wY7OpUHbYlD1lvo6CiyuC",
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5bc854247f8048006f6299a7"
+	},
+	"team": "roberts.roda",
+	"acronym": "ULE",
+	"place": "Universidad de León",
+	"role": "ROLE_USER",
+	"password": "$2a$10$C3Hp2XWw5SdZVUikmUaqfuJawDbKRdhJqeJuRTy/aotfjMSw.FoAG",
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5bc8542c7f8048006f6299a8"
+	},
+	"team": "leticia.morenop",
+	"acronym": "ULE",
+	"place": "Universidad de León",
+	"role": "ROLE_USER",
+	"password": "$2a$10$gOzelQjG/VtQ.ODn0jmyFOgNNpfHl5mg9utwTTXpsx3HWfK3H3qOi",
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5bc8543f7f8048006f6299a9"
+	},
+	"team": "admin",
+	"acronym": "ULE",
+	"place": "Universidad de León",
+	"role": "ROLE_USER",
+	"password": "$2a$10$dNTy3jLUiAKU1aPOFO/J6eyWGNf2E/vyx7HQ9pyil6H4EWcweyIXO",
+	"__v": 0
 }]
+
