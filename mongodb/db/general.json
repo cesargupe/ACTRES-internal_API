@@ -42,50 +42,5 @@
 		],
 		"footer": "Plataforma interna de \u003cb\u003eACTRES\u003c/b\u003e \u003cb\u003e㋡\u003c/b\u003e"
 	}
-},
-{
-	"_id": {
-		"$oid": "5ba210feaf3c2e052dd8c540"
-	},
-	"name": "general",
-	"language": "en",
-	"data": {
-		"top_menu": [
-			{
-				"text": "Home"
-			},
-			{
-				"text": "Corpus",
-				"sublements": [
-					{
-						"text": "Comparable Corpus"
-					},
-					{
-						"text": "Parallel Corpus"
-					}
-				]
-			},
-			{
-				"text": "Tools"
-			},
-			{
-				"text": "Applications"
-			},
-			{
-				"text": "Language"
-			}
-		],
-		"languages": [
-			{
-				"code": "es",
-				"name": "Spanish"
-			},
-			{
-				"code": "en",
-				"name": "English"
-			}
-		],
-		"footer": "\u003cb\u003eACTRES\u003c/b\u003e Internal platform \u003cb\u003e㋡\u003c/b\u003e"
-	}
 }]
 

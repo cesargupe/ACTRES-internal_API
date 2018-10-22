@@ -1,19 +1,5 @@
 [{
 	"_id": {
-		"$oid": "5ba2148aaf3c2e052dd8c897"
-	},
-	"name": "acceso",
-	"language": "en",
-	"data": {
-		"username_title": "Username",
-		"username_example": "Username",
-		"password_title": "Password",
-		"btnLogin_title": "Log in",
-		"error_login": "Wrong credentials"
-	}
-},
-{
-	"_id": {
 		"$oid": "5ba2148aaf3c2e052dd8c898"
 	},
 	"name": "acceso",

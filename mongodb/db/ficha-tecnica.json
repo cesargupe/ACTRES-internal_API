@@ -1,9 +1,9 @@
 [{
 	"_id": {
-		"$oid": "5bb323bb4cef29563c2e400c"
+		"$oid": "5bb323bb4cef29563c2e400f"
 	},
 	"name": "ficha-tecnica",
-	"type": "herramientas",
+	"type": "aplicaciones",
 	"data": [
 		"Corpus Name",
 		"Acronym",
@@ -52,10 +52,10 @@
 },
 {
 	"_id": {
-		"$oid": "5bb323bb4cef29563c2e400f"
+		"$oid": "5bb323bb4cef29563c2e400b"
 	},
 	"name": "ficha-tecnica",
-	"type": "aplicaciones",
+	"type": "corpus-comparables",
 	"data": [
 		"Corpus Name",
 		"Acronym",
@@ -104,10 +104,10 @@
 },
 {
 	"_id": {
-		"$oid": "5bb323bb4cef29563c2e400b"
+		"$oid": "5bb323bb4cef29563c2e400c"
 	},
 	"name": "ficha-tecnica",
-	"type": "corpus-comparables",
+	"type": "herramientas",
 	"data": [
 		"Corpus Name",
 		"Acronym",

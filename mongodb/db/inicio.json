@@ -1,23 +1,5 @@
 [{
 	"_id": {
-		"$oid": "5ba210feaf3c2e052dd8c546"
-	},
-	"name": "inicio",
-	"language": "en",
-	"data": {
-		"alert": {
-			"bold_text": "Important message",
-			"normal_text": "This is ACTRES_Internal Beta.",
-			"link": ""
-		},
-		"panel": {
-			"title": "Plataforma interna",
-			"text": "La finalidad de esta plataforma es centralizar los recursos de ACTRES para poder acceder a todos ellos desde una única página web. La plataforma es únicamente de uso interno y solo será utilizada por los miembros de ACTRES.\u003cbr\u003e\u003c/br\u003e En esta plataforma se podrá acceder a:\u003cbr\u003e - Corpus\u003cbr\u003e - Herramientas\u003cbr\u003e - Aplicaciones\u003cbr\u003e - Publicaciones del grupo"
-		}
-	}
-},
-{
-	"_id": {
 		"$oid": "5ba210feaf3c2e052dd8c545"
 	},
 	"name": "inicio",
@@ -30,7 +12,7 @@
 		},
 		"panel": {
 			"title": "Plataforma interna",
-			"text": "La finalidad de esta plataforma es centralizar los recursos de ACTRES para poder acceder a todos ellos desde una única página web. La plataforma es únicamente de uso interno y solo será utilizada por los miembros de ACTRES.\u003cbr\u003e\u003c/br\u003e En esta plataforma se podrá acceder a:\u003cbr\u003e - Corpus\u003cbr\u003e - Herramientas\u003cbr\u003e - Aplicaciones\u003cbr\u003e - Publicaciones del grupo"
+			"text": "La finalidad de esta plataforma es centralizar los recursos de ACTRES para poder acceder a todos ellos desde una única página web.\u003cbr\u003e\u003c/br\u003e En esta plataforma se podrá acceder a:\u003cbr\u003e - Corpus\u003cbr\u003e - Herramientas\u003cbr\u003e - Aplicaciones\u003cbr\u003e - Publicaciones del grupo"
 		}
 	}
 }]

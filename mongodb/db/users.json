@@ -11,17 +11,6 @@
 },
 {
 	"_id": {
-		"$oid": "5bbdab2d789c230224d42cb8"
-	},
-	"team": "ADMIN",
-	"acronym": "ULE",
-	"place": "Universidad de León",
-	"role": "ROLE_ADMIN",
-	"password": "$2a$10$njeWODYMB80yXy4445XLCuPxz1PUV3Nh3an1hRdOWGuT2/IthSXwu",
-	"__v": 0
-},
-{
-	"_id": {
 		"$oid": "5bc853957f8048006f62999b"
 	},
 	"team": "rosa.rabadan",
@@ -181,8 +170,7 @@
 	"team": "admin",
 	"acronym": "ULE",
 	"place": "Universidad de León",
-	"role": "ROLE_USER",
+	"role": "ROLE_ADMIN",
 	"password": "$2a$10$dNTy3jLUiAKU1aPOFO/J6eyWGNf2E/vyx7HQ9pyil6H4EWcweyIXO",
 	"__v": 0
 }]
-

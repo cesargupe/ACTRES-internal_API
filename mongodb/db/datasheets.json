@@ -1,134 +1,28 @@
 [{
 	"_id": {
-		"$oid": "5ba210feaf3c2e052dd8c580"
+		"$oid": "5bc636189a09729ab0d03297"
 	},
-	"name": "C-GEDEGA",
-	"type": "corpus-comparables",
+	"type": "corpus-paralelos",
 	"data": [
-		"C-GEDEGA",
-		"Acronym of corpus",
-		"www.webproject.com",
-		"",
-		"fiction, popular-scientific texts, political speeches , tourism leaflets , corporate websites, academic writtings, minutes of European Parlament.",
-		"Spain, South America, Germany",
-		"de es, es-de",
-		"Unidirectional, bidirectional",
-		"Written, spoken",
-		"Lemmatized, pos tagged, parsed, semantic annotation, pragmatic annotation.",
-		"Sentence, word",
-		"Yes, No",
-		"Yes, no",
-		"Free online, free online for research, on request.",
-		"Free online, free online for research, on request.",
-		"Universidad de León",
-		"persona@gmail.com"
-	]
-},
-{
-	"_id": {
-		"$oid": "5ba210feaf3c2e052dd8c581"
-	},
-	"name": "C-GEFEM",
-	"type": "corpus-comparables",
-	"data": [
-		"Name of Corpus",
-		"Acronym of corpus",
-		"www.webproject.com",
-		"",
-		"fiction, popular-scientific texts, political speeches , tourism leaflets , corporate websites, academic writtings, minutes of European Parlament.",
-		"Spain, South America, Germany",
-		"de es, es-de",
-		"Unidirectional, bidirectional",
-		"Written, spoken",
-		"Lemmatized, pos tagged, parsed, semantic annotation, pragmatic annotation.",
-		"Sentence, word",
-		"Yes, No",
-		"Yes, no",
-		"Free online, free online for research, on request.",
-		"Free online, free online for research, on request.",
-		"Universidad de León",
-		"persona@gmail.com"
-	]
-},
-{
-	"_id": {
-		"$oid": "5baa22a43f0f240b78c18fee"
-	},
-	"name": "r3dew",
-	"type": "corpus-comprables",
-	"data": [
-		"",
-		"aaa",
-		"b",
-		"",
-		"c",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		""
+		"Parallel ACTRES 2.0",
+		"P-ACTRES 2.0",
+		"http://actres.unileon.es",
+		"Written",
+		"fiction, non-fiction, newspaper and magazine articles, miscellaneous",
+		"2000-2018",
+		"Spain, Spanish-speaking America, UK, Ireland, USA, Canada, Australia",
+		"en↔ es",
+		"bidirectional",
+		"5.720.319 words",
+		"Lemmatized, POS tagged, aligned",
+		"Sentence",
+		"Yes",
+		"No",
+		"Free online demo, registered users for research and educational purposes",
+		"ACTRES",
+		"University of León, Spain",
+		"actres@unileon.es Belén Labrador de la Cruz"
 	],
-	"__v": 0
-},
-{
-	"_id": {
-		"$oid": "5baa22c33f0f240b78c18fef"
-	},
-	"name": "r3dew",
-	"type": "corpus-comprables",
-	"data": [
-		"",
-		"aa",
-		"",
-		"aa",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		""
-	],
-	"__v": 0
-},
-{
-	"_id": {
-		"$oid": "5bb323c8911e02022414a37b"
-	},
-	"name": "C-EADEG",
-	"type": "corpus-comparables",
-	"data": [
-		"a",
-		"",
-		"b",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		""
-	],
-	"__v": 0
+	"name": "P-ACTRES 2.0"
 }]
 
