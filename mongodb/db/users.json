@@ -4,7 +4,7 @@
 	},
 	"team": "ACTRES",
 	"acronym": "ULE",
-	"place": "Universidad de León",
+	"place": "ACTRES",
 	"role": "ROLE_USER",
 	"password": "$2a$10$NVHafelw4ab.CP7IfbhjEuxZT40GEp5/2KYDyBaOEyvKn9k9rp.JG",
 	"__v": 0
@@ -15,7 +15,7 @@
 	},
 	"team": "rosa.rabadan",
 	"acronym": "ULE",
-	"place": "Universidad de León",
+	"place": "ACTRES",
 	"role": "ROLE_USER",
 	"password": "$2a$10$CVFfYFtayxk4tFr4405vxORM4khsjtuXyy9UAkDb4ktI8TyWGN38K",
 	"__v": 0
@@ -26,7 +26,7 @@
 	},
 	"team": "belen.labrador",
 	"acronym": "ULE",
-	"place": "Universidad de León",
+	"place": "ACTRES",
 	"role": "ROLE_USER",
 	"password": "$2a$10$8zlxUuSv5mRebf6Sbba2wOBB7yJkJrfnJnL2y0wniyTow1o70apOu",
 	"__v": 0
@@ -37,7 +37,7 @@
 	},
 	"team": "noelia.ramon",
 	"acronym": "ULE",
-	"place": "Universidad de León",
+	"place": "ACTRES",
 	"role": "ROLE_USER",
 	"password": "$2a$10$4F1hUl.c5PujhHpPboWsGO8Td7W6fP/VMeGdTjBmPbkX/T8ZvbL7u",
 	"__v": 0
@@ -48,7 +48,7 @@
 	},
 	"team": "angeles.diez",
 	"acronym": "ULE",
-	"place": "Universidad de León",
+	"place": "ACTRES",
 	"role": "ROLE_USER",
 	"password": "$2a$10$sP.LXuF2GLBkpU6FoICLH.tEwHwQ8DoauSNaQAkzg4/U8gaXaZBUa",
 	"__v": 0
@@ -59,7 +59,7 @@
 	},
 	"team": "acrif",
 	"acronym": "ULE",
-	"place": "Universidad de León",
+	"place": "ACTRES",
 	"role": "ROLE_USER",
 	"password": "$2a$10$W2J52xvBn8AEkaICOHqSvuakDnv1iK7sb5vnkTLp9WM0vz1uOB6RK",
 	"__v": 0
@@ -70,7 +70,7 @@
 	},
 	"team": "purificacion.fernandez",
 	"acronym": "ULE",
-	"place": "Universidad de León",
+	"place": "ACTRES",
 	"role": "ROLE_USER",
 	"password": "$2a$10$NFqOcIoZWOLwy95wm3MnuOP9PdhGIV1Y7amTCsx9DaRNY/t2rxxgC",
 	"__v": 0
@@ -81,7 +81,7 @@
 	},
 	"team": "pizarro",
 	"acronym": "ULE",
-	"place": "Universidad de León",
+	"place": "ACTRES",
 	"role": "ROLE_USER",
 	"password": "$2a$10$KPgui7uQmC0b9emoDnqVVuoOtlHq0pP/UK29bgUOoN7Ku4uUZXaUO",
 	"__v": 0
@@ -92,7 +92,7 @@
 	},
 	"team": "mariabelen.lopez",
 	"acronym": "ULE",
-	"place": "Universidad de León",
+	"place": "ACTRES",
 	"role": "ROLE_USER",
 	"password": "$2a$10$NU.J5fRqZHM0JP3/dtLbCeVhntIiE.1SynPF8PW8b90AkIxoRwUXG",
 	"__v": 0
@@ -103,7 +103,7 @@
 	},
 	"team": "mariateresa.ortego",
 	"acronym": "ULE",
-	"place": "Universidad de León",
+	"place": "ACTRES",
 	"role": "ROLE_USER",
 	"password": "$2a$10$A7Ere/w9Cp42VpB9nR4Xi.77hRzNhaB0X99ottR6Abi6qjmhT4pIK",
 	"__v": 0
@@ -114,7 +114,7 @@
 	},
 	"team": "marlen.izquierdo",
 	"acronym": "ULE",
-	"place": "Universidad de León",
+	"place": "ACTRES",
 	"role": "ROLE_USER",
 	"password": "$2a$10$8DNPv/y8IY86BY5XhCCmiOMxofzg4UbrZVay0ZYdy0sZBK9vNN7ei",
 	"__v": 0
@@ -125,7 +125,7 @@
 	},
 	"team": "fjpalacios",
 	"acronym": "ULE",
-	"place": "Universidad de León",
+	"place": "ACTRES",
 	"role": "ROLE_USER",
 	"password": "$2a$10$hl.EUswcTE7ZekSNA8R2KOOEu7SiCFM/cFUhtpGLWaYRuQgEcpYfC",
 	"__v": 0
@@ -136,7 +136,7 @@
 	},
 	"team": "mperb",
 	"acronym": "ULE",
-	"place": "Universidad de León",
+	"place": "ACTRES",
 	"role": "ROLE_USER",
 	"password": "$2a$10$K6mB6GCfnNQie/i7IhbJLuYJWbWL1um/wY7OpUHbYlD1lvo6CiyuC",
 	"__v": 0
@@ -147,7 +147,7 @@
 	},
 	"team": "roberts.roda",
 	"acronym": "ULE",
-	"place": "Universidad de León",
+	"place": "ACTRES",
 	"role": "ROLE_USER",
 	"password": "$2a$10$C3Hp2XWw5SdZVUikmUaqfuJawDbKRdhJqeJuRTy/aotfjMSw.FoAG",
 	"__v": 0
@@ -158,7 +158,7 @@
 	},
 	"team": "leticia.morenop",
 	"acronym": "ULE",
-	"place": "Universidad de León",
+	"place": "ACTRES",
 	"role": "ROLE_USER",
 	"password": "$2a$10$gOzelQjG/VtQ.ODn0jmyFOgNNpfHl5mg9utwTTXpsx3HWfK3H3qOi",
 	"__v": 0
@@ -169,9 +169,8 @@
 	},
 	"team": "admin",
 	"acronym": "ULE",
-	"place": "Universidad de León",
+	"place": "ACTRES",
 	"role": "ROLE_ADMIN",
 	"password": "$2a$10$dNTy3jLUiAKU1aPOFO/J6eyWGNf2E/vyx7HQ9pyil6H4EWcweyIXO",
 	"__v": 0
 }]
-

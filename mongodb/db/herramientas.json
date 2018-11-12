@@ -16,6 +16,31 @@
 			"error_text": "Se ha producido un error guardando la herramienta",
 			"name_title": "Nombre de la herramienta",
 			"description_title": "Descripción de la herramienta",
+			"status": {
+				"title": "Estado de la herramienta",
+				"options": [
+					{
+						"title": "Por defecto",
+						"value": ""
+					},
+					{
+						"title": "Próximamente",
+						"value": "<b><font color='#388e3c'>PRÓXIMAMENTE</font></b>"
+					},
+					{
+						"title": "No disponible",
+						"value": "<b><font color='#b71c1c'>NO DISPONIBLE</font></b>"
+					},
+					{
+						"title": "Versión beta",
+						"value": "<b><font color='#1565c0'>VERSIÓN BETA</font></b>"
+					},
+					{
+						"title": "No funciona",
+						"value": "<b><font color='#f4511e'>NO FUNCIONA</font></b>"
+					}
+				]
+			},
 			"email_title": "Link de la herramienta",
 			"cancel_btn": "Cancelar",
 			"save_btn": "Guardar"
@@ -45,4 +70,3 @@
 		]
 	}
 }]
-
