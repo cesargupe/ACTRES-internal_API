@@ -23,6 +23,13 @@
 		},
 		"applications": [
 			{
+				"name": "PETRA 2.0: Evaluación de la calidad de las traducciones",
+				"description": "\u003cp\u003e\u003cb\u003e\u003cfont color=\"green\"\u003ePRÓXIMAMENTE\u003c/font\u003e\u003c/b\u003e\u003c/p\u003e\nVersión 2.0 de PETRA con nuevos datos estadísticos, edición del resultado final y desarrollada en Bootstrap y PhP. ",
+				"link": "http://actres.unileon.es/internal/aplicaciones",
+				"author": "admin",
+				"acronym": "ULE"
+			},
+			{
 				"description": "ACTRES presenta una serie de generadores con el fin de ayudar a los investigadores y profesionales en la elaboración de textos cientifico-técnicos en idioma Inglés. Estos generadores se caracterizan por asistir al profesional en cada momento de la redacción con las sugerencias más adecuadas en cada momento desde el punto de vista gramatical. Todo ello, a través de una interfaz de usuario amigable y enfocada a la productividad.",
 				"name": "Generadores para escritura 2.0",
 				"link": "https://actres.unileon.es/generadores2",
@@ -38,7 +45,7 @@
 			},
 			{
 				"name": "PETRA 1.0: Evaluación de la calidad de las traducciones",
-				"description": "Se trata de una aplicación diseñada para evaluar la calidad gramatical de las traducciones del inglés al español de textos “de lengua general”: artículos de revistas y periódicos, ensayo, narrativa, etc.\n\nSe presenta como un interfaz altamente intuitivo y totalmente centrado en el usuario que funciona gracias a información lingüística experta basada en anchors: unidades morfológicas o combinaciones sintácticas que bien:",
+				"description": "\u003cp\u003e\u003cb\u003e\u003cfont color=\"red\"\u003eNO DISPONIBLE\u003c/font\u003e\u003c/b\u003e\u003c/p\u003e\nSe trata de una aplicación diseñada para evaluar la calidad gramatical de las traducciones del inglés al español de textos “de lengua general”: artículos de revistas y periódicos, ensayo, narrativa, etc.",
 				"link": "https://actres.unileon.es/wordpress/?page_id=48\u0026lang=es",
 				"author": "ACTRES",
 				"acronym": "ULE"

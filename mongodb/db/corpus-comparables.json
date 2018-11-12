@@ -11,6 +11,7 @@
 			"Ficha técnica"
 		],
 		"edit_menu": {
+			"search_title": "Introduce el nombre o parte de la descripción",
 			"new_btn": "Nuevo Corpus",
 			"new_title": "Nuevo Corpus",
 			"edit_title": "Editar Corpus",

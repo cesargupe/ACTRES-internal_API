@@ -26,10 +26,10 @@
 },
 {
 	"_id": {
-		"$oid": "5bb323bb4cef29563c2e400d"
+		"$oid": "5bb323bb4cef29563c2e400e"
 	},
 	"name": "ficha-tecnica",
-	"type": "corpus-paralelos",
+	"type": "herramientas",
 	"data": [
 		"Corpus Name",
 		"Acronym",
@@ -78,10 +78,10 @@
 },
 {
 	"_id": {
-		"$oid": "5bb323bb4cef29563c2e400e"
+		"$oid": "5bb323bb4cef29563c2e400d"
 	},
 	"name": "ficha-tecnica",
-	"type": "herramientas",
+	"type": "corpus-paralelos",
 	"data": [
 		"Corpus Name",
 		"Acronym",

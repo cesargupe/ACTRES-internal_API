@@ -91,8 +91,31 @@ function saveUser(req, res) {
 
 }
 
+function deleteUser(req, res) {
+
+  var userId = req.params.id;
+
+  User.findByIdAndDelete(userId, (err, userRemoved) => {
+
+    if (err) {
+      res.status(500).send({message: 'Error en el servidor'});
+    }else {
+
+      if (!userRemoved) {
+        res.status(404).send({message: 'No se ha podido borrar el usuario'});
+      }else {
+        res.status(200).send({song: userRemoved});
+      }
+
+    }
+
+  });
+
+}
+
 module.exports = {
   getUsers,
   loginUser,
-  saveUser
+  saveUser,
+  deleteUser
 };

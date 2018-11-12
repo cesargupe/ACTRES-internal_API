@@ -22,22 +22,22 @@
 		},
 		"tools": [
 			{
-				"name": "Etiquetador ES",
-				"description": "Beta del etiquetador semántico en español.",
+				"name": "Versión alfa del etiquetador semántico en español",
+				"description": "Versión alfa del etiquetador semántico en español. Se permiten seleccionar diversos modelos estadísticos para comprobar su funcionamiento.",
 				"link": "https://actres.unileon.es/herramientas/tagger/es/",
 				"author": "ACTRES",
 				"acronym": "ULE"
 			},
 			{
-				"name": "Biblioteca de P-Actres",
-				"description": "Metadatos de P-ACTRES 2.0",
+				"name": "Metadatos de P-ACTRES 2.0",
+				"description": "Permite acceder y gestionar la base de datos MySQL que contiene los datos de los textos de P-Actres.",
 				"link": "https://actres.unileon.es/herramientas/textos/",
 				"author": "ACTRES",
 				"acronym": "ULE"
 			},
 			{
-				"name": "Comparador",
-				"description": "Evaluación de la beta del etiquetador semántico en español",
+				"name": "Evaluación de la versión alfa del etiquetador semántico en español",
+				"description": "Comparación del resultado del etiquetado con un texto etiquetado a mano.",
 				"link": "https://actres.unileon.es/herramientas/comparator/",
 				"author": "ACTRES",
 				"acronym": "ULE"

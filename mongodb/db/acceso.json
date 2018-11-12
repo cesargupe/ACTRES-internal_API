@@ -5,10 +5,12 @@
 	"name": "acceso",
 	"language": "es",
 	"data": {
+		"title": "Iniciar sesión",
 		"username_title": "Nombre de usuario",
 		"username_example": "Nombre del usuario",
 		"password_title": "Contraseña",
 		"btnLogin_title": "Acceder",
+		"btnCancel_title": "Cancelar",
 		"error_login": "Datos incorrectos"
 	}
 }]
