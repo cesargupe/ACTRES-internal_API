@@ -26,19 +26,19 @@
 					},
 					{
 						"title": "Próximamente",
-						"value": "<b><font color='#388e3c'>PRÓXIMAMENTE</font></b>"
+						"value": "\u003cb\u003e\u003cfont color='#388e3c'\u003ePRÓXIMAMENTE\u003c/font\u003e\u003c/b\u003e"
 					},
 					{
 						"title": "No disponible",
-						"value": "<b><font color='#b71c1c'>NO DISPONIBLE</font></b>"
+						"value": "\u003cb\u003e\u003cfont color='#b71c1c'\u003eNO DISPONIBLE\u003c/font\u003e\u003c/b\u003e"
 					},
 					{
 						"title": "Versión beta",
-						"value": "<b><font color='#1565c0'>VERSIÓN BETA</font></b>"
+						"value": "\u003cb\u003e\u003cfont color='#1565c0'\u003eVERSIÓN BETA\u003c/font\u003e\u003c/b\u003e"
 					},
 					{
 						"title": "No funciona",
-						"value": "<b><font color='#f4511e'>NO FUNCIONA</font></b>"
+						"value": "\u003cb\u003e\u003cfont color='#f4511e'\u003eNO FUNCIONA\u003c/font\u003e\u003c/b\u003e"
 					}
 				]
 			},
@@ -49,10 +49,11 @@
 		"applications": [
 			{
 				"name": "PETRA 2.0: Evaluación de la calidad de las traducciones",
-				"description": "\u003cp\u003e\u003cb\u003e\u003cfont color=\"green\"\u003ePRÓXIMAMENTE\u003c/font\u003e\u003c/b\u003e\u003c/p\u003e\nVersión 2.0 de PETRA con nuevos datos estadísticos, edición del resultado final y desarrollada en Bootstrap y PhP. ",
+				"description": "Versión 2.0 de PETRA con nuevos datos estadísticos, edición del resultado final y desarrollada en Bootstrap y PhP. ",
 				"link": "http://actres.unileon.es/internal/aplicaciones",
-				"author": "admin",
-				"acronym": "ULE"
+				"author": "ACTRES",
+				"acronym": "ULE",
+				"status": "\u003cb\u003e\u003cfont color='#388e3c'\u003ePRÓXIMAMENTE\u003c/font\u003e\u003c/b\u003e"
 			},
 			{
 				"description": "ACTRES presenta una serie de generadores con el fin de ayudar a los investigadores y profesionales en la elaboración de textos cientifico-técnicos en idioma Inglés. Estos generadores se caracterizan por asistir al profesional en cada momento de la redacción con las sugerencias más adecuadas en cada momento desde el punto de vista gramatical. Todo ello, a través de una interfaz de usuario amigable y enfocada a la productividad.",
@@ -64,17 +65,19 @@
 			{
 				"name": "Generadores para escritura 1.0",
 				"description": "ACTRES presenta una serie de generadores con el fin de ayudar a los investigadores y profesionales en la elaboración de textos cientifico-técnicos en idioma Inglés. Estos generadores se caracterizan por asistir al profesional en cada momento de la redacción con las sugerencias más adecuadas en cada momento desde el punto de vista gramatical. Todo ello, a través de una interfaz de usuario amigable y enfocada a la productividad.",
-				"link": "http://contraste2.unileon.es/web/es/applications.html",
+				"link": "https://actres.unileon.es/generadores/generadores1",
 				"author": "ACTRES",
 				"acronym": "ULE"
 			},
 			{
 				"name": "PETRA 1.0: Evaluación de la calidad de las traducciones",
-				"description": "\u003cp\u003e\u003cb\u003e\u003cfont color=\"red\"\u003eNO DISPONIBLE\u003c/font\u003e\u003c/b\u003e\u003c/p\u003e\nSe trata de una aplicación diseñada para evaluar la calidad gramatical de las traducciones del inglés al español de textos “de lengua general”: artículos de revistas y periódicos, ensayo, narrativa, etc.",
+				"description": "Se trata de una aplicación diseñada para evaluar la calidad gramatical de las traducciones del inglés al español de textos “de lengua general”: artículos de revistas y periódicos, ensayo, narrativa, etc.",
 				"link": "https://actres.unileon.es/wordpress/?page_id=48\u0026lang=es",
 				"author": "ACTRES",
-				"acronym": "ULE"
+				"acronym": "ULE",
+				"status": "\u003cb\u003e\u003cfont color='#b71c1c'\u003eNO DISPONIBLE\u003c/font\u003e\u003c/b\u003e"
 			}
 		]
 	}
 }]
+

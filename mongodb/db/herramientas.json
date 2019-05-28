@@ -25,19 +25,19 @@
 					},
 					{
 						"title": "Próximamente",
-						"value": "<b><font color='#388e3c'>PRÓXIMAMENTE</font></b>"
+						"value": "\u003cb\u003e\u003cfont color='#388e3c'\u003ePRÓXIMAMENTE\u003c/font\u003e\u003c/b\u003e"
 					},
 					{
 						"title": "No disponible",
-						"value": "<b><font color='#b71c1c'>NO DISPONIBLE</font></b>"
+						"value": "\u003cb\u003e\u003cfont color='#b71c1c'\u003eNO DISPONIBLE\u003c/font\u003e\u003c/b\u003e"
 					},
 					{
 						"title": "Versión beta",
-						"value": "<b><font color='#1565c0'>VERSIÓN BETA</font></b>"
+						"value": "\u003cb\u003e\u003cfont color='#1565c0'\u003eVERSIÓN BETA\u003c/font\u003e\u003c/b\u003e"
 					},
 					{
 						"title": "No funciona",
-						"value": "<b><font color='#f4511e'>NO FUNCIONA</font></b>"
+						"value": "\u003cb\u003e\u003cfont color='#f4511e'\u003eNO FUNCIONA\u003c/font\u003e\u003c/b\u003e"
 					}
 				]
 			},
@@ -47,11 +47,20 @@
 		},
 		"tools": [
 			{
-				"name": "Versión alfa del etiquetador semántico en español",
+				"name": "Etiquetador gramatical bilingüe",
+				"description": "Etiquetador gramatical que muestra la salida de TreeTagger",
+				"link": "https://actres.unileon.es/herramientas/gramatical_tagger/",
+				"status": "\u003cb\u003e\u003cfont color='#388e3c'\u003ePRÓXIMAMENTE\u003c/font\u003e\u003c/b\u003e",
+				"author": "ACTRES",
+				"acronym": "ULE"
+			},
+			{
+				"name": "Etiquetador semántico en español",
 				"description": "Versión alfa del etiquetador semántico en español. Se permiten seleccionar diversos modelos estadísticos para comprobar su funcionamiento.",
 				"link": "https://actres.unileon.es/herramientas/tagger/es/",
 				"author": "ACTRES",
-				"acronym": "ULE"
+				"acronym": "ULE",
+				"status": "\u003cb\u003e\u003cfont color='#1565c0'\u003eVERSIÓN BETA\u003c/font\u003e\u003c/b\u003e"
 			},
 			{
 				"name": "Metadatos de P-ACTRES 2.0",
@@ -70,3 +79,4 @@
 		]
 	}
 }]
+

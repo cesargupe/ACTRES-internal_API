@@ -14,7 +14,7 @@ exports.createToken = function(user){
     place: user.place,
     role: user.role,
     iat: moment().valueOf(),
-    exp: moment().add(10, 'days').valueOf()
+    exp: moment().add(24, 'hours').valueOf()
   };
 
   return jwt.encode(payload, secret);
