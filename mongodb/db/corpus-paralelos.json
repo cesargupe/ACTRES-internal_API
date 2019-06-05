@@ -7,7 +7,7 @@
 	"data": {
 		"title": "Corpus paralelos",
 		"buttons": [
-			"Acceder",
+			"Información",
 			"Ficha técnica"
 		],
 		"edit_menu": {
@@ -31,4 +31,3 @@
 		]
 	}
 }]
-

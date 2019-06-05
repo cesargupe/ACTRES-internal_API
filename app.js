@@ -1,15 +1,27 @@
 'use strict'
 
+var fs = require('fs');
 var express = require('express');
 var bodyParser = require('body-parser');
-
 var app = express();
+
+var http = require('http');
+var https = require('https');
 
 // Cargar rutas
 var content_routes = require('./routes/content');
 var datasheet_routes = require('./routes/datasheet');
 //var notice_routes = require('./routes/notice');
 var user_routes = require('./routes/user');
+
+var options = {
+  key: fs.readFileSync('certs/actres_unileon_es.key'),
+  cert: fs.readFileSync('certs/actres_unileon_es.crt'),
+  ca: fs.readFileSync('certs/DigiCertCA.crt')
+}
+
+var https_server = https.createServer(options, app);
+var http_server = http.createServer(app);
 
 app.use(bodyParser.urlencoded({extended:false}));
 app.use(bodyParser.json());
@@ -32,4 +44,7 @@ app.use('/api', datasheet_routes);
 //app.use('/api', notice_routes);
 app.use('/api', user_routes);
 
-module.exports = app;
+module.exports = {
+  http_server,
+  https_server
+};

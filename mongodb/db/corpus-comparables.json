@@ -7,7 +7,7 @@
 	"data": {
 		"title": "Corpus comparables",
 		"buttons": [
-			"Acceder",
+			"Información",
 			"Ficha técnica"
 		],
 		"edit_menu": {
@@ -110,4 +110,3 @@
 		]
 	}
 }]
-
