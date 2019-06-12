@@ -1,6 +1,9 @@
 'use strict'
 
 var Content = require('../models/content');
+var jwt_service = require('../services/jwt');
+
+const getRouteLink = /.*{(.+)}/g;
 
 function getAllContent(req, res) {
 
@@ -43,6 +46,22 @@ function getContent(req, res) {
         if (!content) {
           res.status(404).send({message: 'El contenido no existe'});
         }else {
+
+          //
+          if (content.data.tools) {
+            content.data.tools.map(tool => {
+              if (tool.link.match(getRouteLink)) {
+                let params_encode = jwt_service.createToken({
+                  userId: req.user.team,
+                  time: Date.now() / 1000 | 0,
+                  route: tool.link.replace(getRouteLink, '$1')
+                }, 'actres');
+                tool.encode_link = tool.link.split('{')[0] + params_encode;
+                console.log(tool.encode_link);
+              }
+            });
+          }
+
           res.status(200).send({content});
         }
       }

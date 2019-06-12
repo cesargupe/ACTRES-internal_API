@@ -30,5 +30,38 @@
 	"role": "ROLE_USER",
 	"password": "$2a$10$yXUltFVdokPDivgwe.y0eudg/eKuy54qI/DX6n7x5oH2lLE2vSNKa",
 	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5ced1adf0aecc21de03779f5"
+	},
+	"team": "noelia",
+	"acronym": "ULE",
+	"place": "ACTRES",
+	"role": "ROLE_USER",
+	"password": "$2a$10$tsDz6kHcLXSIhwfznXXG/.Mc9epQAJQ6JRoHY0PCF3JY13IoKXveC",
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5ced1b0d0aecc21de03779f7"
+	},
+	"team": "belen",
+	"acronym": "ULE",
+	"place": "ACTRES",
+	"role": "ROLE_USER",
+	"password": "$2a$10$prVp3wBcmLlUBc71o50H1.hTKKvnIIb7/i6TgyImyENbgos1tsRmS",
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5ced4e020aecc21de03779f8"
+	},
+	"team": "maria",
+	"acronym": "ULE",
+	"place": "ACTRES",
+	"role": "ROLE_USER",
+	"password": "$2a$10$0aI0qaogzdLbG23XNGkoSufVMGTazr3nHNIuCLvD7BTJDzu1bipBy",
+	"__v": 0
 }]
 

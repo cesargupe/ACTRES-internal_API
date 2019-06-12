@@ -5,7 +5,7 @@ var moment = require('moment');
 
 var secret = 'aed085f52d361348612b5c27cd82925f'
 
-exports.createToken = function(user){
+exports.createToken = function(user, password = secret){
 
   var payload = {
     sub: user._id,

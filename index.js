@@ -15,6 +15,7 @@ mongoose.connect('mongodb://localhost:27017/actres_internal', {useNewUrlParser: 
     app.http_server.listen(port, function () {
       console.log("Servidor del API REST de Actres_internal escuchando en http://localhost:" + port);
     });
+
     app.https_server.listen(port_https, function () {
       console.log("Servidor del API REST de Actres_internal escuchando en https://localhost:" + port_https);
     });

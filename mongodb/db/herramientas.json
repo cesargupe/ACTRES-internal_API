@@ -70,7 +70,7 @@
 			},
 			{
 				"name": "Etiquetador semántico en español",
-				"description": "Versión alfa del etiquetador semántico en español. Se permiten seleccionar diversos modelos estadísticos para comprobar su funcionamiento.",
+				"description": "Etiquetador semántico en español. Se permiten seleccionar diversos modelos estadísticos para comprobar su funcionamiento.",
 				"link": "https://actres.unileon.es/herramientas/tagger/es/",
 				"author": "ACTRES",
 				"acronym": "ULE",
@@ -86,3 +86,4 @@
 		]
 	}
 }]
+
