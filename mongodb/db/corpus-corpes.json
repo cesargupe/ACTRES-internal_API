@@ -1,11 +1,11 @@
 [{
 	"_id": {
-		"$oid": "5ba210feaf3c2e052dd8c551"
+		"$oid": "5d00f43d1b945ca24cef5e28"
 	},
-	"name": "corpus-paralelos",
+	"name": "corpus-corpes",
 	"language": "es",
 	"data": {
-		"title": "Corpus paralelos",
+		"title": "Corpus Corpes",
 		"buttons": [
 			"Corpus 0",
 			"Ficha técnica",
@@ -24,9 +24,9 @@
 		},
 		"corpus": [
 			{
-				"name": "P-ACTRES 2.0",
-				"link": "https://actres.unileon.es/herramientas/textos/",
-				"acceso": "https://actres.unileon.es/P-ACTRES/v2",
+				"name": "CORPES XXI",
+				"link": "http://www.rae.es/recursos/banco-de-datos/corpes-xxi",
+				"acceso": "http://www.rae.es/recursos/banco-de-datos/corpes-xxi",
 				"author": "ACTRES",
 				"acronym": "ULE"
 			}

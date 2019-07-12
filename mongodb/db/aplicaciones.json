@@ -25,8 +25,8 @@
 						"value": ""
 					},
 					{
-						"title": "Próximamente",
-						"value": "\u003cb\u003e\u003cfont color='#388e3c'\u003ePRÓXIMAMENTE\u003c/font\u003e\u003c/b\u003e"
+						"title": "En desarrollo",
+						"value": "\u003cb\u003e\u003cfont color='#388e3c'\u003eEN DESARROLLO\u003c/font\u003e\u003c/b\u003e"
 					},
 					{
 						"title": "No disponible",
@@ -53,19 +53,12 @@
 				"link": "http://actres.unileon.es/internal/aplicaciones",
 				"author": "ACTRES",
 				"acronym": "ULE",
-				"status": "\u003cb\u003e\u003cfont color='#388e3c'\u003ePRÓXIMAMENTE\u003c/font\u003e\u003c/b\u003e"
+				"status": "\u003cb\u003e\u003cfont color='#388e3c'\u003eEN DESARROLLO\u003c/font\u003e\u003c/b\u003e"
 			},
 			{
+				"name": "AUTHORING SUPPORT: Generadores 1.0 y 2.0",
 				"description": "ACTRES presenta una serie de generadores con el fin de ayudar a los investigadores y profesionales en la elaboración de textos cientifico-técnicos en idioma Inglés. Estos generadores se caracterizan por asistir al profesional en cada momento de la redacción con las sugerencias más adecuadas en cada momento desde el punto de vista gramatical. Todo ello, a través de una interfaz de usuario amigable y enfocada a la productividad.",
-				"name": "Generadores para escritura 2.0",
-				"link": "https://actres.unileon.es/generadores2",
-				"author": "ACTRES",
-				"acronym": "ULE"
-			},
-			{
-				"name": "Generadores para escritura 1.0",
-				"description": "ACTRES presenta una serie de generadores con el fin de ayudar a los investigadores y profesionales en la elaboración de textos cientifico-técnicos en idioma Inglés. Estos generadores se caracterizan por asistir al profesional en cada momento de la redacción con las sugerencias más adecuadas en cada momento desde el punto de vista gramatical. Todo ello, a través de una interfaz de usuario amigable y enfocada a la productividad.",
-				"link": "https://actres.unileon.es/generadores/generadores1",
+				"link": "https://actres.unileon.es/demos/generadores/applications.html#generatorsSection",
 				"author": "ACTRES",
 				"acronym": "ULE"
 			},
@@ -75,7 +68,7 @@
 				"link": "https://actres.unileon.es/wordpress/?page_id=48\u0026lang=es",
 				"author": "ACTRES",
 				"acronym": "ULE",
-				"status": "\u003cb\u003e\u003cfont color='#b71c1c'\u003eNO DISPONIBLE\u003c/font\u003e\u003c/b\u003e"
+				"status": ""
 			}
 		]
 	}

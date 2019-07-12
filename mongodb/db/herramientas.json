@@ -47,21 +47,7 @@
 		},
 		"tools": [
 			{
-				"name": "P-ACTRES 2.0 Browser",
-				"link": "http://actres.unileon.es/P-ACTRES/v2/",
-				"description": "Permite realizar todo tipo de búsquedas sobre los corpus que hay disponibles.",
-				"author": "ACTRES",
-				"acronym": "ULE"
-			},
-			{
-				"name": "Metadatos de P-ACTRES 2.0",
-				"description": "Permite acceder y gestionar la base de datos MySQL que contiene los datos de los textos de P-Actres.",
-				"link": "https://actres.unileon.es/herramientas/textos/",
-				"author": "ACTRES",
-				"acronym": "ULE"
-			},
-			{
-				"name": "Etiquetador gramatical bilingüe",
+				"name": "Etiquetador gramatical: TreeTagger",
 				"description": "Etiquetador gramatical que muestra la salida de TreeTagger",
 				"link": "https://actres.unileon.es/herramientas/gramatical_tagger/",
 				"status": "",
@@ -74,10 +60,25 @@
 				"link": "https://actres.unileon.es/herramientas/tagger/es/",
 				"author": "ACTRES",
 				"acronym": "ULE",
-				"status": "\u003cb\u003e\u003cfont color='#1565c0'\u003eVERSIÓN BETA\u003c/font\u003e\u003c/b\u003e"
+				"status": ""
 			},
 			{
-				"name": "Evaluación de la versión alfa del etiquetador semántico en español",
+				"name": "Etiquetador semántico en inglés (UCREL)",
+				"description": "Etiquetador semántico en inglés.",
+				"link": "http://ucrel-api.lancaster.ac.uk/usas/tagger.html",
+				"author": "ACTRES",
+				"acronym": "ULE",
+				"status": ""
+			},
+			{
+				"name": "Evaluación de los resultados del etiquetador semántico en español",
+				"description": "Comparación del resultado del etiquetado con un texto etiquetado a mano.",
+				"link": "https://actres.unileon.es/herramientas/comparator/",
+				"author": "ACTRES",
+				"acronym": "ULE"
+			},
+			{
+				"name": "Evaluación de los resultados del etiquetador semántico en español",
 				"description": "Comparación del resultado del etiquetado con un texto etiquetado a mano.",
 				"link": "https://actres.unileon.es/herramientas/comparator/",
 				"author": "ACTRES",

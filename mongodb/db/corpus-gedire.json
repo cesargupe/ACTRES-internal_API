@@ -1,11 +1,11 @@
 [{
 	"_id": {
-		"$oid": "5ba210feaf3c2e052dd8c551"
+		"$oid": "5d00f43d1b945ca24cef5e2d"
 	},
-	"name": "corpus-paralelos",
+	"name": "corpus-gedire",
 	"language": "es",
 	"data": {
-		"title": "Corpus paralelos",
+		"title": "Corpus GEDIRE",
 		"buttons": [
 			"Corpus 0",
 			"Ficha técnica",
@@ -24,13 +24,12 @@
 		},
 		"corpus": [
 			{
-				"name": "P-ACTRES 2.0",
-				"link": "https://actres.unileon.es/herramientas/textos/",
-				"acceso": "https://actres.unileon.es/P-ACTRES/v2",
+				"name": "GEDIRE",
+				"link": "http://contraste2.unileon.es/web/es/corpus0_M-En-GEDIRE.html",
+				"acceso": "http://contraste2.unileon.es/web/es/corpus0_M-En-GEDIRE.html",
 				"author": "ACTRES",
 				"acronym": "ULE"
 			}
 		]
 	}
 }]
-

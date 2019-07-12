@@ -8,6 +8,12 @@ query="{name:'corpus-comparables'}";
 mongoexport --db actres_internal --collection contents --jsonArray --pretty --out db/corpus-comparables.json --query "$query"
 query="{name:'corpus-paralelos'}";
 mongoexport --db actres_internal --collection contents --jsonArray --pretty --out db/corpus-paralelos.json --query "$query"
+query="{name:'corpus-cetri'}";
+mongoexport --db actres_internal --collection contents --jsonArray --pretty --out db/corpus-cetri.json --query "$query"
+query="{name:'corpus-corpes'}";
+mongoexport --db actres_internal --collection contents --jsonArray --pretty --out db/corpus-corpes.json --query "$query"
+query="{name:'corpus-gedire'}";
+mongoexport --db actres_internal --collection contents --jsonArray --pretty --out db/corpus-gedire.json --query "$query"
 query="{name:'herramientas'}";
 mongoexport --db actres_internal --collection contents --jsonArray --pretty --out db/herramientas.json --query "$query"
 query="{name:'aplicaciones'}";

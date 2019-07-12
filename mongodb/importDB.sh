@@ -4,6 +4,9 @@ mongoimport --db actres_internal --collection contents --file db/general.json --
 mongoimport --db actres_internal --collection contents --file db/inicio.json --jsonArray
 mongoimport --db actres_internal --collection contents --file db/corpus-comparables.json --jsonArray
 mongoimport --db actres_internal --collection contents --file db/corpus-paralelos.json --jsonArray
+mongoimport --db actres_internal --collection contents --file db/corpus-cetri.json --jsonArray
+mongoimport --db actres_internal --collection contents --file db/corpus-corpes.json --jsonArray
+mongoimport --db actres_internal --collection contents --file db/corpus-gedire.json --jsonArray
 mongoimport --db actres_internal --collection contents --file db/herramientas.json --jsonArray
 mongoimport --db actres_internal --collection contents --file db/aplicaciones.json --jsonArray
 mongoimport --db actres_internal --collection contents --file db/noticias.json --jsonArray

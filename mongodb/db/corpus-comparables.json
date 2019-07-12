@@ -7,11 +7,12 @@
 	"data": {
 		"title": "Corpus comparables",
 		"buttons": [
-			"Información",
-			"Ficha técnica"
+			"Corpus 0",
+			"Ficha técnica",
+			"Acceso"
 		],
 		"edit_menu": {
-			"search_title": "Introduce el nombre o parte de la descripción",
+			"search_title": "Introduce el nombre",
 			"new_btn": "Nuevo Corpus",
 			"new_title": "Nuevo Corpus",
 			"edit_title": "Editar Corpus",

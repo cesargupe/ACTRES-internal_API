@@ -1,11 +1,11 @@
 [{
 	"_id": {
-		"$oid": "5ba210feaf3c2e052dd8c551"
+		"$oid": "5d00f43d1b945ca24cef5e23"
 	},
-	"name": "corpus-paralelos",
+	"name": "corpus-cetri",
 	"language": "es",
 	"data": {
-		"title": "Corpus paralelos",
+		"title": "Corpus Cetri",
 		"buttons": [
 			"Corpus 0",
 			"Ficha técnica",
@@ -24,9 +24,9 @@
 		},
 		"corpus": [
 			{
-				"name": "P-ACTRES 2.0",
-				"link": "https://actres.unileon.es/herramientas/textos/",
-				"acceso": "https://actres.unileon.es/P-ACTRES/v2",
+				"name": "CETRI",
+				"link": "https://actres.unileon.es/herramientas/cetri/",
+				"acceso": "https://actres.unileon.es/herramientas/cetri/",
 				"author": "ACTRES",
 				"acronym": "ULE"
 			}

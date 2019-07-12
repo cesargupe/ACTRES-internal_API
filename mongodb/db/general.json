@@ -13,10 +13,19 @@
 				"text": "Corpus",
 				"sublements": [
 					{
-						"text": "Corpus comparable"
+						"text": "Comparables"
 					},
 					{
-						"text": "Corpus paralelos"
+						"text": "P-ACTRES 2.0"
+					},
+					{
+						"text": "CETRI"
+					},
+					{
+						"text": "CORPES XXI"
+					},
+					{
+						"text": "GEDIRE"
 					}
 				]
 			},
